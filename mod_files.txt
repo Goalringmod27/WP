@@ -1,1 +1,7 @@
+add disk/bb/#ghz200.ar.00
+add disk/bb/#ghz200.ar.01
+add disk/bb/#ghz200.ar.02
+add disk/bb/#ghz200.arl
+add disk/bb2/#pam000.ar.00
+add disk/bb2/#pam000.arl
 add mod.ini

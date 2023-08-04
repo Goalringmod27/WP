@@ -1,3 +1,7 @@
+# Version 1.2.1
+
+* Fixed weird object shadow rendering when playing without the Soft Shadows mod (this issue was accidentally introduced in 1.2)
+
 # Version 1.2
 
 * Added update server
